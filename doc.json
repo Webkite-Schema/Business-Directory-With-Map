@@ -1,0 +1,516 @@
+{
+  "facets": [
+    {
+      "name": "Business Name",
+      "type": "Text",
+      "metadata": {
+        "sortable": true,
+        "filterable": false
+      }
+    },
+    {
+      "name": "Image",
+      "type": "Image",
+      "metadata": {
+        "sortable": false,
+        "filterable": false
+      }
+    },
+    {
+      "name": "Description",
+      "type": "Text",
+      "metadata": {
+        "sortable": false,
+        "filterable": false
+      }
+    },
+    {
+      "name": "Address 1",
+      "type": "Text",
+      "metadata": {
+        "sortable": false,
+        "filterable": false
+      }
+    },
+    {
+      "name": "Address 2",
+      "type": "Text",
+      "metadata": {
+        "sortable": false,
+        "filterable": false
+      }
+    },
+    {
+      "name": "City",
+      "type": "Text",
+      "metadata": {
+        "sortable": false,
+        "filterable": false
+      }
+    },
+    {
+      "name": "State",
+      "type": "Text",
+      "metadata": {
+        "sortable": false,
+        "filterable": false
+      }
+    },
+    {
+      "name": "Zip Code",
+      "type": "Text",
+      "metadata": {
+        "sortable": false,
+        "filterable": false
+      }
+    },
+    {
+      "name": "Country",
+      "type": "Text",
+      "metadata": {
+        "sortable": false,
+        "filterable": false
+      }
+    },
+    {
+      "name": "Geolocation",
+      "type": "Location",
+      "metadata": {
+        "sortable": false,
+        "filterable": false
+      }
+    },
+    {
+      "name": "Website",
+      "type": "Text",
+      "metadata": {
+        "sortable": false,
+        "filterable": false
+      }
+    },
+    {
+      "name": "Category",
+      "type": "Enum",
+      "metadata": {
+        "sortable": false,
+        "filterable": true
+      }
+    },
+    {
+      "name": "Phone Number",
+      "type": "Text",
+      "metadata": {
+        "sortable": false,
+        "filterable": false
+      }
+    },
+    {
+      "name": "Fax Number",
+      "type": "Text",
+      "metadata": {
+        "sortable": false,
+        "filterable": false
+      }
+    },
+    {
+      "name": "Email",
+      "type": "Text",
+      "metadata": {
+        "sortable": false,
+        "filterable": false
+      }
+    },
+    {
+      "name": "Facebook",
+      "type": "Text",
+      "metadata": {
+        "sortable": false,
+        "filterable": false
+      }
+    },
+    {
+      "name": "Twitter",
+      "type": "Text",
+      "metadata": {
+        "sortable": false,
+        "filterable": false
+      }
+    }
+  ],
+  "aliases": {
+    "Hebrew": {
+      "_metadata": {
+        "display_name": "",
+        "display_language": "עברית",
+        "phrases": {
+          "Sort": "מיון",
+          "Filter": "סינון",
+          "More": "עוד",
+          "Less": "סגור",
+          "Sorry, no results": "מצטערים, אין תוצאות",
+          "There are no results to display based on the selected filters. Try removing a filter to see more results.": "",
+          "and": "וגם",
+          "or": "או",
+          "Details": "לפרטים"
+        }
+      },
+      "Business Name": "שם העסק",
+      "Image": "תמונה",
+      "Description": "תיאור",
+      "Address 1": "כתובת 1",
+      "Address 2": "כתובת 2",
+      "City": "עיר",
+      "State": "מדינה",
+      "Zip Code": "מיקוד",
+      "Country": "ארץ",
+      "Geolocation": "Geolocation",
+      "Website": "אתר",
+      "Category": "קטגוריה",
+      "Phone Number": "מספר טלפון",
+      "Fax Number": "מספר פקס",
+      "Email": "מייל",
+      "Facebook": "פייסבוק",
+      "Twitter": "טוויטר"
+    },
+    "Hindi": {
+      "_metadata": {
+        "display_name": "",
+        "display_language": "हिन्दी",
+        "phrases": {
+          "Sort": "तरह",
+          "Filter": "फिल्टर",
+          "More": "अधिक",
+          "Less": "कम",
+          "Sorry, no results": "क्षमा करें, परिणाम नहीं",
+          "There are no results to display based on the selected filters. Try removing a filter to see more results.": "",
+          "and": "और",
+          "or": "या",
+          "Details": "विवरण"
+        }
+      },
+      "Business Name": "व्यवसाय नाम",
+      "Image": "छवि",
+      "Description": "विवरण",
+      "Address 1": "पता 1",
+      "Address 2": "पता 2",
+      "City": "शहर",
+      "State": "प्रदेश",
+      "Zip Code": "पिन कोड",
+      "Country": "देश",
+      "Geolocation": "Geolocation",
+      "Website": "वेबसाइट",
+      "Category": "श्रेणी",
+      "Phone Number": "फोन नंबर",
+      "Fax Number": "फैक्स नंबर",
+      "Email": "ईमेल",
+      "Facebook": "फेसबुक",
+      "Twitter": "ट्विटर"
+    },
+    "Chinese (Mandarin)": {
+      "_metadata": {
+        "display_name": "",
+        "display_language": "普通话",
+        "phrases": {
+          "Sort": "排序",
+          "Filter": "筛选",
+          "More": "更多",
+          "Less": "收起",
+          "Sorry, no results": "不好意思，没有结果",
+          "There are no results to display based on the selected filters. Try removing a filter to see more results.": "",
+          "and": "和",
+          "or": "或",
+          "Details": "细节"
+        }
+      },
+      "Business Name": "公司名称",
+      "Image": "相片",
+      "Description": "描述",
+      "Address 1": "地址1",
+      "Address 2": "地址2",
+      "City": "城市",
+      "State": "省",
+      "Zip Code": "邮编",
+      "Country": "国家",
+      "Geolocation": "Geolocation",
+      "Website": "网站",
+      "Category": "类别",
+      "Phone Number": "电话号码",
+      "Fax Number": "传真号码",
+      "Email": "电子邮件",
+      "Facebook": "Facebook（脸书）",
+      "Twitter": "Twitter （推特）"
+    },
+    "Spanish": {
+      "_metadata": {
+        "display_name": "",
+        "display_language": "Español",
+        "phrases": {
+          "Sort": "Ordenar",
+          "Filter": "Filtro",
+          "More": "Más",
+          "Less": "Menos",
+          "Sorry, no results": "Lo sentimos, no hay resultados",
+          "There are no results to display based on the selected filters. Try removing a filter to see more results.": "",
+          "and": "y",
+          "or": "o",
+          "Details": "Detalles"
+        }
+      },
+      "Business Name": "Nombre del negocio",
+      "Image": "Imagen",
+      "Description": "Descripción",
+      "Address 1": "Dirección 1",
+      "Address 2": "Dirección 2",
+      "City": "Ciudad",
+      "State": "Estado",
+      "Zip Code": "Código Postal",
+      "Country": "País",
+      "Geolocation": "Geolocation",
+      "Website": "Sitio web",
+      "Category": "Categoría",
+      "Phone Number": "Número de teléfono",
+      "Fax Number": "Número de fax",
+      "Email": "Email",
+      "Facebook": "Facebook",
+      "Twitter": "Twitter"
+    },
+    "Portuguese": {
+      "_metadata": {
+        "display_name": "",
+        "display_language": "Português",
+        "phrases": {
+          "Sort": "Tipo",
+          "Filter": "Filtro",
+          "More": "Mais",
+          "Less": "Menos",
+          "Sorry, no results": "Desculpe, não houve resultados",
+          "There are no results to display based on the selected filters. Try removing a filter to see more results.": "",
+          "and": "e",
+          "or": "ou",
+          "Details": "Detalhes"
+        }
+      },
+      "Business Name": "Nome da empresa",
+      "Image": "Imagem",
+      "Description": "Descrição",
+      "Address 1": "Endereço 1",
+      "Address 2": "Endereço 2",
+      "City": "Cidade",
+      "State": "Estado",
+      "Zip Code": "Cep",
+      "Country": "País",
+      "Geolocation": "Geolocation",
+      "Website": "Website",
+      "Category": "Categoria",
+      "Phone Number": "Número de telefone",
+      "Fax Number": "Número de fax",
+      "Email": "Email",
+      "Facebook": "Facebook",
+      "Twitter": "Twitter"
+    },
+    "German": {
+      "_metadata": {
+        "display_name": "",
+        "display_language": "Deutsch",
+        "phrases": {
+          "Sort": "Art",
+          "Filter": "Filter",
+          "More": "Mehr",
+          "Less": "Weniger",
+          "Sorry, no results": "Sorry, keine Ergebnisse",
+          "There are no results to display based on the selected filters. Try removing a filter to see more results.": "",
+          "and": "Und",
+          "or": "Oder",
+          "Details": "Details"
+        }
+      },
+      "Business Name": "Firmennamen",
+      "Image": "Bild",
+      "Description": "Beschreibung",
+      "Address 1": "Adresse 1",
+      "Address 2": "Adresse 2",
+      "City": "Stadt",
+      "State": "Staat",
+      "Zip Code": "Postleitzahl",
+      "Country": "Land",
+      "Geolocation": "Geolocation",
+      "Website": "Website",
+      "Category": "Kategorie",
+      "Phone Number": "Telefonnummer",
+      "Fax Number": "Faxnummer",
+      "Email": "E-mail",
+      "Facebook": "Facebook",
+      "Twitter": "Twitter"
+    },
+    "French": {
+      "_metadata": {
+        "display_name": "",
+        "display_language": "Français",
+        "phrases": {
+          "Sort": "Sorte",
+          "Filter": "Filtre",
+          "More": "Plus",
+          "Less": "Moins",
+          "Sorry, no results": "Desole, zero resultats",
+          "There are no results to display based on the selected filters. Try removing a filter to see more results.": "",
+          "and": "et",
+          "or": "ou",
+          "Details": "Détails"
+        }
+      },
+      "Business Name": "Nom d’entreprise",
+      "Image": "Image",
+      "Description": "Description",
+      "Address 1": "Adresse 1",
+      "Address 2": "Adresse 2",
+      "City": "Ville",
+      "State": "État ou province",
+      "Zip Code": "Code postal",
+      "Country": "Pays",
+      "Geolocation": "Geolocation",
+      "Website": "Site web",
+      "Category": "Catégorie",
+      "Phone Number": "Numero de téléphone",
+      "Fax Number": "Numéro de fax",
+      "Email": "E-mail",
+      "Facebook": "Facebook",
+      "Twitter": "Twitter"
+    },
+    "Russian": {
+      "_metadata": {
+        "display_name": "",
+        "display_language": "Язык",
+        "phrases": {
+          "Sort": "Тип",
+          "Filter": "Фильтр",
+          "More": "Больше",
+          "Less": "Меньше",
+          "Sorry, no results": "Простите, но мы ничего не нашли",
+          "There are no results to display based on the selected filters. Try removing a filter to see more results.": "",
+          "and": "И",
+          "or": "или",
+          "Details": "Подробнее"
+        }
+      },
+      "Business Name": "Название",
+      "Image": "Изображение",
+      "Description": "Описание",
+      "Address 1": "Адрес 1",
+      "Address 2": "Адрес 2",
+      "City": "Город",
+      "State": "Область",
+      "Zip Code": "Индекс",
+      "Country": "нация",
+      "Geolocation": "Vkontakte",
+      "Website": "Сайт",
+      "Category": "Категория",
+      "Phone Number": "Телефон",
+      "Fax Number": "Факс",
+      "Email": "Email",
+      "Facebook": "Facebook",
+      "Twitter": "Twitter"
+    },
+    "Indonesian": {
+      "_metadata": {
+        "display_name": "",
+        "display_language": "Bahasa Indonesia",
+        "phrases": {
+          "Sort": "Jenis",
+          "Filter": "Filter",
+          "More": "Lebih",
+          "Less": "Kurang",
+          "Sorry, no results": "Maaf, tidak ada hasil",
+          "There are no results to display based on the selected filters. Try removing a filter to see more results.": "",
+          "and": "dan",
+          "or": "atau",
+          "Details": "Detail"
+        }
+      },
+      "Business Name": "Nama Perusahaan",
+      "Image": "Gambaran",
+      "Description": "Uraian",
+      "Address 1": "Alamat 1",
+      "Address 2": "Alamat 2",
+      "City": "Kota",
+      "State": "Negara bagian",
+      "Zip Code": "Zip Code",
+      "Country": "Negeri",
+      "Geolocation": "Geolocation",
+      "Website": "Website",
+      "Category": "Kategori",
+      "Phone Number": "Nomor telepon",
+      "Fax Number": "Nomor faks",
+      "Email": "Email",
+      "Facebook": "Facebook",
+      "Twitter": "Twitter"
+    },
+    "Dutch": {
+      "_metadata": {
+        "display_name": "",
+        "display_language": "Nederlands",
+        "phrases": {
+          "Sort": "Sorteren",
+          "Filter": "Filter",
+          "More": "Meer",
+          "Less": "Minder",
+          "Sorry, no results": "Sorry, geen resultaten",
+          "There are no results to display based on the selected filters. Try removing a filter to see more results.": "",
+          "and": "en",
+          "or": "of",
+          "Details": "Details"
+        }
+      },
+      "Business Name": "Bedrijfsnaam",
+      "Image": "Afbeelding",
+      "Description": "Omschrijving",
+      "Address 1": "Adres 1",
+      "Address 2": "Adres 2",
+      "City": "Stad",
+      "State": "Provincie",
+      "Zip Code": "Postcode",
+      "Country": "Land",
+      "Geolocation": "Geolocation",
+      "Website": "Website",
+      "Category": "Categorie",
+      "Phone Number": "Telefoonnummer",
+      "Fax Number": "Faxnummer",
+      "Email": "Email",
+      "Facebook": "Facebook",
+      "Twitter": "Twitter"
+    },
+    "Turkish": {
+      "_metadata": {
+        "display_name": "",
+        "display_language": "Türkçe",
+        "phrases": {
+          "Sort": "Sıralama",
+          "Filter": "Filtre",
+          "More": "Daha çok",
+          "Less": "Daha az",
+          "Sorry, no results": "Sonuç Bulunamadı",
+          "There are no results to display based on the selected filters. Try removing a filter to see more results.": "",
+          "and": "ve",
+          "or": "veya",
+          "Details": "Detaylar"
+        }
+      },
+      "Business Name": "İşyeri İsmi",
+      "Image": "Resim",
+      "Description": "Tanım",
+      "Address 1": "Adres 1",
+      "Address 2": "Adres 2",
+      "City": "Şehir",
+      "State": "Eyalet",
+      "Zip Code": "Posta Kodu",
+      "Country": "Ülke",
+      "Geolocation": "Geolocation",
+      "Website": "Web Sitesi",
+      "Category": "Kategori",
+      "Phone Number": "Telefon Numarası",
+      "Fax Number": "Faks Numarası",
+      "Email": "e-posta",
+      "Facebook": "Facebook",
+      "Twitter": "Twitter"
+    }
+  }
+}
